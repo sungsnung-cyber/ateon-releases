@@ -1,12 +1,13 @@
 {
   "v": 1,
   "url": "wss://tear-wellness-english-projection.trycloudflare.com",
-  "updatedAt": "2026-10-12T16:07:11Z",
+  "updatedAt": "2026-10-12T17:38:28Z",
   "servers": [
     {
       "id": "athena",
       "name": "아테나",
-      "url": "wss://tear-wellness-english-projection.trycloudflare.com"
+      "url": "wss://211.233.207.201",
+      "fallback": "wss://tear-wellness-english-projection.trycloudflare.com"
     }
   ]
 }
