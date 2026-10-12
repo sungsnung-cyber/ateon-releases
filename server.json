@@ -1,1 +1,12 @@
-{ "v": 1, "url": "wss://tear-wellness-english-projection.trycloudflare.com", "updatedAt": "2026-10-12T14:39:08Z" }
+{
+  "v": 1,
+  "url": "wss://tear-wellness-english-projection.trycloudflare.com",
+  "updatedAt": "2026-10-12T16:07:11Z",
+  "servers": [
+    {
+      "id": "athena",
+      "name": "아테나",
+      "url": "wss://tear-wellness-english-projection.trycloudflare.com"
+    }
+  ]
+}
