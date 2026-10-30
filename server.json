@@ -1,13 +1,13 @@
 {
   "v": 1,
-  "url": "wss://tear-wellness-english-projection.trycloudflare.com",
-  "updatedAt": "2026-10-12T17:38:28Z",
+  "url": "wss://unlimited-unknown-bunny-blackjack.trycloudflare.com",
+  "updatedAt": "2026-10-30T13:23:46Z",
   "servers": [
     {
       "id": "athena",
       "name": "아테나",
       "url": "wss://211.233.207.201",
-      "fallback": "wss://tear-wellness-english-projection.trycloudflare.com"
+      "fallback": "wss://unlimited-unknown-bunny-blackjack.trycloudflare.com"
     }
   ]
 }
